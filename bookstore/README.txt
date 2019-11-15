@@ -1,0 +1,1 @@
+本项目为JSP+JDBC+JavaBean框架的网上购书商城
